@@ -1,0 +1,31 @@
+﻿Build started 10/7/2013 2:03:02 PM.
+     1>Project "C:\Users\Samuel\Portfolio\COMP345\COMP345Assignments\d20CharacterBuilder\d20CharacterBuilder.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BullyBuilder.cpp Character.cpp CharacterBuilder.cpp CharacterObserver.cpp Creator.cpp Dice.cpp Main.cpp NimbleBuilder.cpp TankBuilder.cpp
+         TankBuilder.cpp
+         NimbleBuilder.cpp
+         Main.cpp
+         Dice.cpp
+         Creator.cpp
+         CharacterObserver.cpp
+         CharacterBuilder.cpp
+         Character.cpp
+     1>c:\users\samuel\portfolio\comp345\comp345assignments\d20characterbuilder\character.cpp(215): warning C4018: '<' : signed/unsigned mismatch
+         BullyBuilder.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Samuel\Portfolio\COMP345\COMP345Assignments\Debug\d20CharacterBuilder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Samuel\Portfolio\COMP345\COMP345Assignments\Debug\d20CharacterBuilder.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Samuel\Portfolio\COMP345\COMP345Assignments\Debug\d20CharacterBuilder.lib" /MACHINE:X86 Debug\BullyBuilder.obj
+         Debug\Character.obj
+         Debug\CharacterBuilder.obj
+         Debug\CharacterObserver.obj
+         Debug\Creator.obj
+         Debug\Dice.obj
+         Debug\Main.obj
+         Debug\NimbleBuilder.obj
+         Debug\TankBuilder.obj
+         d20CharacterBuilder.vcxproj -> C:\Users\Samuel\Portfolio\COMP345\COMP345Assignments\Debug\d20CharacterBuilder.exe
+     1>Done Building Project "C:\Users\Samuel\Portfolio\COMP345\COMP345Assignments\d20CharacterBuilder\d20CharacterBuilder.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.58
